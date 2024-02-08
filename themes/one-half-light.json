@@ -301,7 +301,7 @@
     {
       "scope": "markup.inserted.diff",
       "settings": {
-        "foreground": "#89CA78"
+        "foreground": "#50A14F"
       }
     },
     {
@@ -817,7 +817,7 @@
     {
       "scope": "string",
       "settings": {
-        "foreground": "#89CA78"
+        "foreground": "#50A14F"
       }
     },
     {
@@ -949,13 +949,13 @@
     {
       "scope": "markup.inline.raw.markdown",
       "settings": {
-        "foreground": "#89CA78"
+        "foreground": "#50A14F"
       }
     },
     {
       "scope": "markup.inline.raw.string.markdown",
       "settings": {
-        "foreground": "#89CA78"
+        "foreground": "#50A14F"
       }
     },
     {
@@ -1007,7 +1007,7 @@
     {
       "scope": "markup.raw.monospace.asciidoc",
       "settings": {
-        "foreground": "#89CA78"
+        "foreground": "#50A14F"
       }
     },
     {
@@ -1109,7 +1109,7 @@
     {
       "scope": "source.json meta.structure.dictionary.json > value.json > string.quoted.json,source.json meta.structure.array.json > value.json > string.quoted.json,source.json meta.structure.dictionary.json > value.json > string.quoted.json > punctuation,source.json meta.structure.array.json > value.json > string.quoted.json > punctuation",
       "settings": {
-        "foreground": "#89CA78"
+        "foreground": "#50A14F"
       }
     },
     {
@@ -1401,25 +1401,25 @@
     {
       "scope": ["keyword.other.template.begin"],
       "settings": {
-        "foreground": "#89CA78"
+        "foreground": "#50A14F"
       }
     },
     {
       "scope": ["keyword.other.template.end"],
       "settings": {
-        "foreground": "#89CA78"
+        "foreground": "#50A14F"
       }
     },
     {
       "scope": ["keyword.other.substitution.begin"],
       "settings": {
-        "foreground": "#89CA78"
+        "foreground": "#50A14F"
       }
     },
     {
       "scope": ["keyword.other.substitution.end"],
       "settings": {
-        "foreground": "#89CA78"
+        "foreground": "#50A14F"
       }
     },
     {
@@ -1509,7 +1509,7 @@
     {
       "scope": ["source.ini"],
       "settings": {
-        "foreground": "#89CA78"
+        "foreground": "#50A14F"
       }
     },
     {
@@ -1545,7 +1545,7 @@
     {
       "scope": ["meta.definition.class.inherited.classes.groovy"],
       "settings": {
-        "foreground": "#89CA78"
+        "foreground": "#50A14F"
       }
     },
     {
@@ -1618,7 +1618,7 @@
     {
       "scope": ["beginning.punctuation.definition.quote.markdown.xi"],
       "settings": {
-        "foreground": "#89CA78"
+        "foreground": "#50A14F"
       }
     },
     {
@@ -1731,7 +1731,7 @@
     {
       "scope": "markup.inserted",
       "settings": {
-        "foreground": "#89CA78"
+        "foreground": "#50A14F"
       }
     },
     {
@@ -1818,7 +1818,7 @@
     {
       "scope": ["log.info"],
       "settings": {
-        "foreground": "#89CA78"
+        "foreground": "#50A14F"
       }
     },
     {
